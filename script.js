@@ -33,7 +33,7 @@ function showSequence(sequenceName) {
       <div class="image-placeholder">${photos[photoNumber]}</div>
       <div>
         <h3>${storyParts[index]}</h3>
-        <p>Caption will be added later.</p>
+        <p>Story caption placeholder.</p>
       </div>
     `;
     sequenceContainer.appendChild(card);
