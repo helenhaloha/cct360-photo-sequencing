@@ -1,17 +1,14 @@
-# Lab 3: Photo Sequencing — Class Progress
+# Lab 3: Photo Sequencing
 
-This is an early framework for the assignment.
+## The Little Red Boat
 
-Current progress:
+This webpage presents the same three photographs in two different orders. Each
+order creates a different beginning, middle, and end.
 
-- Basic page structure
-- Three image placeholders
-- Two sequence buttons
-- JavaScript variables, a function, an event listener, and DOM manipulation
+- Sequence A: **Out Into the World**
+- Sequence B: **The Journey Home**
 
-Still to do:
+The interaction uses JavaScript variables, functions, click event listeners,
+and DOM manipulation to change the order, title, summary, and captions.
 
-- Add three real images
-- Write two complete stories using the same images
-- Replace placeholder captions
-- Finish the visual design
+All three image files are included in the `assets` folder.
